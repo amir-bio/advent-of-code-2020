@@ -39,4 +39,3 @@ with open('./input.txt') as file:
     print(f"Part 2 {missing_ids=}")
     # manually looking at the list, it goes 0, 1, .. 11, 12, 731, 881, 882, ...
     # so 731 is the answer
-    
